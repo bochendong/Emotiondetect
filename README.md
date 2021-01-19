@@ -1,9 +1,9 @@
 # Emotiondetect
 Detect human face emotion using OpenCV and tensorflow
-* [Data preparation](https://github.com/bochendong/stockPricePredict#prepare-the-database)
-* [Build and train Model](https://github.com/bochendong/stockPricePredict#build-and-train-model)
-* [GUI](https://github.com/bochendong/stockPricePredict#show-prediction-result)
-* [Demo](https://github.com/bochendong/stockPricePredict#show-prediction-result)
+* [Data preparation](https://github.com/bochendong/emotionDetect/blob/master/README.md#data-preparation)
+* [Build and train Model](https://github.com/bochendong/emotionDetect/blob/master/README.md#build-and-train-model)
+* [GUI](https://github.com/bochendong/emotionDetect/blob/master/README.md#gui)
+* [Demo](https://github.com/bochendong/emotionDetect/blob/master/README.md#demo)
 
 ## Data preparation
 ```Python
@@ -92,7 +92,7 @@ self.window.after(self.interval, self.update_image)
 ```
 ## Demo:
 <p align="center">
-	<img src="https://github.com/bochendong/stockPricePredict/blob/master/result.png"
+	<img src="https://github.com/bochendong/emotionDetect/blob/master/imgs/IMG_6936.JPG"
         width="1400" height="500">
 	<p align="center">
 </p>
